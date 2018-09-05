@@ -1,4 +1,4 @@
-# Deep Affective Layer
+# Deep Affective Layer With PyTorch
 Building a deep learning based affective computing platform using PyTorch
 
 More information to be uploaded soon! 
