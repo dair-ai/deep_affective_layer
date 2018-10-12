@@ -1,5 +1,5 @@
-# Deep Affective Layer With PyTorch
-Building a deep learning based affective computing platform using PyTorch
+# Building a Deep Affective Layer
+This project aims to build a deep learning based affective computing platform using state of the art techniques.
 
 More information to be uploaded soon! 
 
